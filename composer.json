@@ -1,0 +1,21 @@
+{
+    "name": "jkreet/yii2-birthday-select-widget",
+    "description": "Birthday Selector",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "jkreet",
+            "email": "jkreet@ya.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "jkreet\\birthdayselect\\": ""
+        }
+    }
+}
